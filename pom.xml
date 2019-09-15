@@ -40,13 +40,13 @@
     <version>8.5</version>
 </dependency>
 
-	<dependency>
+	<!-- <dependency>
         <groupId>test</groupId>
         <artifactId>x</artifactId>
         <version>1.0</version>
         <scope>system</scope>
         <systemPath>C:/jars/New_JT400/jt400.jar</systemPath>
-    </dependency>
+    </dependency> -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
